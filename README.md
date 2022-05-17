@@ -3,9 +3,9 @@ During Summer Internship At Zoho Corp
 
 Hey Folks !!!
 
-First of all it's great having you here viewing/reading this project of mine if you have and doubt/queries or any suggestions feel free to contact my mail Id throught which you can reach me. This project of mine is a console based application which has been developed purely using Java(Programming Part).
+First of all it's great having you here viewing/reading this project of mine if you have and doubt/queries or any suggestions feel free to contact my mail Id through which you can reach me. This project of mine is a console based application which has been developed purely using Java(Programming Part).
 
-I had underwent my summer Internship at Zoho Corp recently where I was asked to develop this console based application after going throught the concepts like Inheritance(which include Understanding Class and Objects in java, Encapsulation, Abstraction, Inheritance, Polymorphism, Difference between Compile-time and Run-time Polymorphism in Java, Method Hiding, Association, Aggregation and Composition), Can we Overload or Override static methods in java, When to use static Classes, SOLID Principles, Clean Architecture.
+I had underwent my summer Internship at Zoho Corp recently where I was asked to develop this console based application after going through the concepts like Inheritance(which include Understanding Class and Objects in java, Encapsulation, Abstraction, Inheritance, Polymorphism, Difference between Compile-time and Run-time Polymorphism in Java, Method Hiding, Association, Aggregation and Composition), Can we Overload or Override static methods in java, When to use static Classes, SOLID Principles, Clean Architecture.
 
 The Links which I had used have beeen attached below for your reference hope you find these useful.
 
